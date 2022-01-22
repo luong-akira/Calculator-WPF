@@ -18,3 +18,4 @@ D:\luong\window dev\c#\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.Core
 D:\luong\window dev\c#\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
 D:\luong\window dev\c#\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
 D:\luong\window dev\c#\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+D:\luong\window dev\c#\Calculator\obj\Debug\netcoreapp3.1\App.baml
